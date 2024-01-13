@@ -1,0 +1,7 @@
+Todo list
+- [Solved]update_stock_data don't know whether it is weekdays or weekends -> cause duplicate data
+- [Solved]Update during day cause wrong/ incomplete data
+    [Solved] fix last date if the current date is not ended
+
+- [Pause] Build intraday system for alert. Must be separate with DB
+
